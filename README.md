@@ -1,2 +1,3 @@
 # Mini-searching-project
-In this project i have done searching of a description 
+Hey guys In this project i have done searching of description. It  will perform functionality when clicked through Vanilla Javascript
+:) feel free to contact me @ usmannajeebmalik@gmail.com
